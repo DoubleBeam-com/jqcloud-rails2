@@ -3,7 +3,7 @@ require File.expand_path('../lib/jqcloud2/rails2/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "jqcloud-rails2"
-  s.version     = JQCloud::Rails::VERSION
+  s.version     = JQCloud2::Rails2::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["POSaBIT"]
   s.email       = [""]
