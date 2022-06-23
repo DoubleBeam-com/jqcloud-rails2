@@ -1,15 +1,15 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/jqcloud/rails/version', __FILE__)
+require File.expand_path('../lib/jqcloud2/rails2/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "jqcloud-rails"
+  s.name        = "jqcloud-rails2"
   s.version     = JQCloud::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Archit Baweja"]
-  s.email       = ["architbaweja@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/jqcloud-rails"
+  s.authors     = ["POSaBIT"]
+  s.email       = [""]
+  s.homepage    = ""
   s.summary     = "jQCloud for Rails Asset pipeline"
-  s.description = "Provides easy installation and usage of jQCloud javascript library for your Rails 3.1+ application."
+  s.description = "Provides easy installation and usage of jQCloud javascript library for Rails."
 
   s.required_rubygems_version = ">= 1.3.6"
 
