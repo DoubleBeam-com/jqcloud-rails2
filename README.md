@@ -1,12 +1,12 @@
-# jqcloud-rails
+# jqcloud-rails2
 
-jqcloud.js for Rails 3.1+ asset pipeline.
+jqcloud.js for Rails asset pipeline.
 
 ### Installation
 
 In your Gemfile, add this line:
 
-    gem "jqcloud-rails"
+    gem "jqcloud-rails2", git: 'https://github.com/DoubleBeam-com/jqcloud-rails2'
 
 Then, run `bundle install`.
 
